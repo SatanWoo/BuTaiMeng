@@ -9,7 +9,7 @@ An iOS-Demo of 脸萌 like app
 LianMeng(App Store link is shown below), which is a very popual app among teenagers
 http://itunes.apple.com/cn/app/myotee-lian-meng-gan-jue-zi/id764976183?mt=8 is a good app for us to learn.
 
-This repo is just an uncommerical app written by myself, <strong>no hacking, no reverse engineering</strong>. The implementation is not guaranteed to be the same as the LianMeng App. So feel free to modify it, <strong>but</strong>, do not try to release it on AppStore.
+This repo is just an uncommerical app written by myself, <strong>no hacking, no reverse engineering</strong>. The implementation is <b>not</b> guaranteed to be the same as the LianMeng App. Feel free to modify it, <strong>but</strong>, do not try to release it on AppStore.
 
 
 # Result 
